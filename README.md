@@ -1,5 +1,5 @@
 # Week-4-Assignment
-<img url="erd.png" alt=" library erd diagram" >
+<img src="erd.png" alt="library erd diagram" style="width: 95%; margin: 10px; >
 ## Question:
 
 Suppose you're tasked with designing an Entity Relationship Diagram (ERD) for a basic library system. The system needs to track information about books, authors, library members, and borrowing history. Design an ERD to represent these relationships.
