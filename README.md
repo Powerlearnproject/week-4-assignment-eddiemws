@@ -1,5 +1,5 @@
 # Week-4-Assignment
-<img src="erd.PNG" alt="library erd diagram" style="width: 95%; margin: 10px;" >
+<img src="erd.PNG" alt="library erd diagram" style="width: 100%; margin: 10px;" >
 
  
 ## Question:
